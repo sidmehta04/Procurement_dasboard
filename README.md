@@ -1,1 +1,2 @@
 # Procurement_dasboard
+This system allows DC's to raise inventory requests for clinic supplies, which are then reviewed and approved by the admin. Once approved, the inventory is sent to the clinic. DCs have access to a personalized dashboard where they can view their current inventory levels, track request status, and add comments. Admins have full control over the system, with the ability to manage inventory, approve or reject requests, and oversee all clinic operations.
